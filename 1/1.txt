@@ -1,0 +1,1 @@
+1. cvMat object is a (row, column) matrix, img.at(i,j) is the object in the row i and column j. An element of a CvMat is not necessarily a single number. Being able to represent multiple values for a single entry in the matrix allows us to do things like represent multiple color channels in an RGB image.
